@@ -1,3 +1,7 @@
 suji 
+<<<<<<< HEAD
 i am learning git
 Im trying tto push this file to githubrepo
+=======
+i am learning github
+>>>>>>> chevvusuji-patch-1
