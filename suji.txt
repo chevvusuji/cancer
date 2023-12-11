@@ -1,2 +1,3 @@
 suji 
 i am learning git
+Im trying tto push this file to github repo
